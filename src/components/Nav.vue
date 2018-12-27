@@ -29,13 +29,13 @@ body {
   z-index: 1;
 }
 .nav-bar__logo img {
-  max-width: 15%;
+  max-width: 180px;
   height: auto;
 }
 .button-back {
   position: absolute;
   left: 30px;
-  top: 22px;
+  top: 15px;
   transition: 0.5s ease-in-out;
 }
 .btn.btn-light {
